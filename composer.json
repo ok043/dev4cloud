@@ -1,0 +1,7 @@
+{
+	"require" : {
+		"aws/aws-sdk-php" : "3.*",
+		"pmill/aws-cognito": "^0.2.7"
+
+	}
+}
